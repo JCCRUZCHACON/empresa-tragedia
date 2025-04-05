@@ -38,6 +38,6 @@ export default defineConfig({
 			},
 		}),
 	],
-	base: '/',
+	base: '/my-app/',
 	//manifestFilename: 'manifest.json',  // Usa este nombre para el archivo
 })
